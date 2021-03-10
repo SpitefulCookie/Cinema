@@ -14,7 +14,7 @@ public class Cinema {
 
     public Cinema(){
 
-
+        // ...
 
     }
 
@@ -92,7 +92,6 @@ public class Cinema {
 
         return spett;
 
-    
     }
 
     public double incassoFilm(Date d, Film f){
@@ -147,6 +146,5 @@ public class Cinema {
         return incasso;
 
     }
-    
 
 }
